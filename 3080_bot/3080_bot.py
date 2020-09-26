@@ -104,6 +104,7 @@ print("Going to cart")
 browser.get('https://www.bestbuy.com/cart/')
 QTY = browser.find_element_by_id('item-quantity')
 QTY.send_keys(QTY_to_buy)
+time.sleep(1)
 
 print("Going to checkout")
 checkout = browser.find_element_by_class_name('checkout-buttons__checkout')
