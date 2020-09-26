@@ -10,7 +10,7 @@ product_URL = 'https://www.bestbuy.com/site/nvidia-geforce-rtx-2070-super-8gb-gd
 #product_URL = 'https://www.bestbuy.com/site/nvidia-geforce-rtx-3080-10gb-gddr6x-pci-express-4-0-graphics-card-titanium-and-black/6429440.p?skuId=6429440'
 
 # Quantity to purchase
-QTY_to_buy = 3
+QTY_to_buy = 1
 
 # BestBuy account username and password (password in plain text idk encryption seems like too much work)
 email = 'yourAccount@email.com'
